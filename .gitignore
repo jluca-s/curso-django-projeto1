@@ -163,6 +163,7 @@ cython_debug/
 
 #personal
 !db.sqlite3
+.vscode
 
 # Django #
 *.log
